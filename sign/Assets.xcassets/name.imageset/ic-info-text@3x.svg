@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="44" viewBox="0 0 24 44">
+    <defs>
+        <style>
+            .cls-1{fill:#6c7382;font-size:32px;font-family:IowanOldStyle-Bold,Iowan Old Style;font-weight:700}
+        </style>
+    </defs>
+    <text id="T" class="cls-1" transform="translate(1 33)">
+        <tspan x="0" y="0">T</tspan>
+    </text>
+</svg>

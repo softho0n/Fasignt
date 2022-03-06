@@ -1,0 +1,20 @@
+PODS:
+  - BetterSegmentedControl (2.0.1)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - BetterSegmentedControl (~> 2.0)
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - BetterSegmentedControl
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 1adbcb7d6f7e22d5fddb6d415c4fc636af5cb8ec
+
+COCOAPODS: 1.11.2
